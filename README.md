@@ -1,4 +1,4 @@
-# ten_sports
+# Faizi Tv
 
 A new Flutter application.
 
